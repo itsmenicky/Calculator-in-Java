@@ -1,4 +1,4 @@
-<h1 align="center">Calculator in Java</h1>
+<h1 align="center">Calculator in Java <img src="https://img.shields.io/github/v/release/itsmenicky/Calculator-in-Java.svg?colorB=58839b"></h1>
 <p align=center>An usual calculator that performs basic arithmetic calculations</p>
 <div align=center><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"></div>
 <br />
